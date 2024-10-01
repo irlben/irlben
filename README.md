@@ -9,7 +9,6 @@
 **>>:**
 
 - 👨‍💻 J'apprends actuellement Angular;
-- 👨‍🎓 Etufiant en Bachelor Informatique;
 - 📫 Me contacter : carpentierbenjamin76240@gmail.com
 
 </br>
